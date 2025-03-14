@@ -8,4 +8,7 @@ The Challenge name was so helpful
 
 ![image](https://github.com/user-attachments/assets/c79a6119-c768-4f8f-b9b2-8e4d319878fa)
 
-So with the position of chess we can get the flag 
+So with the position of chess we can get the flag and as always we blood this Task
+
+![image](https://github.com/user-attachments/assets/8e786d46-82dc-4192-b6bc-ca882e11e8fe)
+
